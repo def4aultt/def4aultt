@@ -16,6 +16,6 @@ I’m a high school student passionate about computer science, competitive progr
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=def4aultt&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=def4aultt&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile views](https://komarev.com/ghpvc/?username=def4aultt&label=Profile%20views&color=0e75b6&style=flat)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
