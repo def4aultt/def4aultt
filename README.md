@@ -1,4 +1,7 @@
-# 💫 About Me:
+# Hi there, I'm Haroune Laribi! 👋
+
+
+## 💫 About Me:
 I’m a high school student passionate about computer science, competitive programming, and building practical tech solutions. I enjoy tackling algorithmic problems, exploring areas like number theory and data structures, and continuously improving my problem-solving skills.<br><br>Currently, I’m preparing for international-level competitions while also working on projects involving C++ and AI-related ideas. I’m interested in creating efficient systems, learning new technologies, and turning ideas into real products.
 
 
